@@ -1,0 +1,32 @@
+{
+  "name": "mq-remove",
+  "version": "0.0.0",
+  "description": "mq-remove function extracted from gulp-mq-remove",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undoZen/mq-remove.git"
+  },
+  "keywords": [
+    "media-queries",
+    "ie8",
+    "css"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/mq-remove/issues"
+  },
+  "homepage": "https://github.com/undoZen/mq-remove",
+  "dependencies": {
+    "css": "^2.1.0",
+    "css-mediaquery": "^0.1.2",
+    "tape": "^3.0.3"
+  }
+}
